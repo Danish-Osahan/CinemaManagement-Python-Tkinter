@@ -1,6 +1,8 @@
 This project is about Cinema Management using Python Tkinter 
 Just simply download the zip file and then replace the `username and password` with your own username and password of your oracle database in `Login.py` file at line no:-`100`.
 
+The password  and username for accessing the manager page is :`manager/man123`
+
 You have to create some tables tables in order to run project in your machine.
 
 TNAME                          TABTYPE 
