@@ -13,6 +13,9 @@
 <img src="booking1.jpg" alt="booking1"/>
 <img src="booking2.jpg" alt="booking2"/>
 
+
+
+
 This project is about Cinema Management using Python Tkinter 
 Just simply download the zip file and then replace the `username and password` with your own username and password of your oracle database in `Login.py` file at line no:-`100`.
 
