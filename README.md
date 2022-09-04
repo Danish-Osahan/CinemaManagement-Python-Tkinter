@@ -1,3 +1,18 @@
+<img src="user_notfound.jpg" alt="user_notfound"/>
+<img src="register.jpg" alt="register"/>
+<img src="manager_login.jpg" alt="manager_login"/>
+<img src="manager_choice.jpg" alt="manager_choice"/>
+<img src="movie_added.jpg" alt="movie_added"/>
+<img src="movie_deleted.jpg" alt="movie_deleted"/>
+<img src="movie_earning.jpg" alt="movie_earning"/>
+<img src="movie_managing.jpg" alt="movie_managing"/>
+<img src="movie_updated.jpg" alt="movie_updated"/>
+<img src="movie_updated.jpg" alt="movie_updated"/>
+<img src="cutomer_info.jpg" alt="cutomer_info"/>
+<img src="cutomer_info.jpg" alt="cutomer_info"/>
+<img src="booking1.jpg" alt="booking1"/>
+<img src="booking2.jpg" alt="booking2"/>
+
 This project is about Cinema Management using Python Tkinter 
 Just simply download the zip file and then replace the `username and password` with your own username and password of your oracle database in `Login.py` file at line no:-`100`.
 
